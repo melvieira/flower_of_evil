@@ -1,0 +1,47 @@
+h1 {
+  color: white;
+  margin-bottom: 20px;
+  padding: 25px 25px 25px 25px;
+  text-align: center;
+  font-family: Roboto, arial, sans-serif;
+  font-size: 40px;
+  font-weight: bolder;
+  background-color: rgb(136, 9, 9);
+}
+
+h3 {
+  text-align: center;
+  padding-top: 15px;
+}
+h5 {
+  margin: 5px;
+  text-align: center;
+}
+article {
+  padding: 15px;
+}
+body {
+  margin: 15px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+figcaption {
+  font-size: 15px;
+}
+img {
+  width: 100%;
+  height: auto;
+  border: 5px solid rgb(255, 255, 255);
+}
+
+footer {
+  padding: 30px;
+  text-align: center;
+}
+p {
+  display: inline;
+  font-family: unset;
+  margin-left: auto;
+  margin-right: 100px;
+  text-align: center;
+  text-indent: 30px;
+}
